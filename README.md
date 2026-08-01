@@ -8,7 +8,7 @@ COACHTECH でフルスタックWeb開発を学習中、WEBエンジニア志望�
 
 ## 🛠️ 使える技術
 
-- **バックエンド**: PHP / Laravel
+- **バックエンド**: PHP / Laravel / SQL
 - **フロントエンド**: HTML5 / CSS / Blade
 - **データベース**: MySQL
 - **その他**: Docker / Git・GitHub
@@ -27,7 +27,9 @@ COACHTECH 確認テストにて作成したアプリのリポジトリです。
 
 COACHTECH 教材のハンズオンで作成したリポジトリです。
 
-準備中
+- [php-practice](https://github.com/nae6/php-practice.git) - PHP学習で作成したプログラム
+
+
 <!-- ↓ Tutorial 5〜11 で push した自分のリポジトリへのリンクを並べる。
      並べ方は自由（後述の TIP 参照）。「特に頑張ったもの」を上に持ってくるのもあり。
 - [task-api-practice](https://github.com/<あなた>/task-api-practice) — タスク管理APIのCRUD実装（Laravel + REST API）
@@ -37,10 +39,11 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 
 ---
 
-## 🌱 これから挑戦したいこと
+## 🌱 挑戦していること、したいこと
 
 バックエンドでとことん技術を磨いて、痒いところに手が届くエンジニアを目指してます。
-今はSQLの深掘りに力を入れています。
+今は作成したアプリの構成や内容の更新を行うことで知識の深掘りに取り組んでいます。
+自作アプリの開発にも取り組む予定です。
 
 ## 📫 連絡先・リンク
 
