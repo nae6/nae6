@@ -1,8 +1,8 @@
 ## こんにちは 👋
 
 COACHTECH でフルスタックWeb開発を学習中、WEBエンジニア志望です。
-特にバックエンドが面白く、WEBアプリを何とか作成しましたが、広大な海の中の小さな魚になった気分になりました。。。
-エンジニアの世界は広くて深いです。コツコツ積み上げた先に見えてくる世界が楽しみです！
+特にバックエンドが面白く、WEBアプリを何とか作成しましたが、広大な海の中の小さな魚になった気分になりました。
+エンジニアの世界は広くて深く冒険しがいがあります。コツコツ積み上げた先に見えてくる世界を楽しみに学習しています。
 
 ---
 
@@ -11,51 +11,34 @@ COACHTECH でフルスタックWeb開発を学習中、WEBエンジニア志望�
 - **バックエンド**: PHP / Laravel / SQL
 - **フロントエンド**: HTML5 / CSS / Blade
 - **データベース**: MySQL
-- **その他**: Docker / Git・GitHub
+- **その他**: Docker / Git・GitHub / n8n(学習中)
 
 
 ## 📂 学習成果物
 
-COACHTECH 模擬案件にて作成したアプリのリポジトリです。
+### COACHTECH 模擬案件にて作成したアプリのリポジトリです。
 
 - [laravel-attendance-app](https://github.com/nae6/laravel-attendance-app.git) - 勤怠管理アプリ
 - [flea-market-app](https://github.com/nae6/flea-market-app.git) - フリーマーケット風アプリ
 
-COACHTECH 確認テストにて作成したアプリのリポジトリです。
+### COACHTECH 確認テストにて作成したアプリのリポジトリです。
 
 - [laravel-contact-form](https://github.com/nae6/laravel-contact-form.git) - お問い合わせフォームアプリ
 
-COACHTECH 教材のハンズオンで作成したリポジトリです。
+### COACHTECH 教材のハンズオンで作成したリポジトリです。
 
 - [php-practice](https://github.com/nae6/php-practice.git) - PHP学習で作成したプログラム
 
-
-<!-- ↓ Tutorial 5〜11 で push した自分のリポジトリへのリンクを並べる。
-     並べ方は自由（後述の TIP 参照）。「特に頑張ったもの」を上に持ってくるのもあり。
-- [task-api-practice](https://github.com/<あなた>/task-api-practice) — タスク管理APIのCRUD実装（Laravel + REST API）
-- [auth-app-practice](https://github.com/<あなた>/auth-app-practice) — 認証機能の実装（Laravel Fortify）
-- [self-introduction-practice](https://github.com/<あなた>/self-introduction-practice) — 自己紹介ページ（HTML5）
--->
 
 ---
 
 ## 🌱 挑戦していること、したいこと
 
-バックエンドでとことん技術を磨いて、痒いところに手が届くエンジニアを目指してます。
-今は作成したアプリの構成や内容の更新を行うことで知識の深掘りに取り組んでいます。
-自作アプリの開発にも取り組む予定です。
+バックエンドの技術を磨いて、運用・保守まで考えた実装ができるエンジニアを目指しています。
+現在は作成したアプリの構成や内容の更新を行うことで知識の深掘りに取り組んでいます。
+また自作アプリの開発にも取り組む予定です。
 
 ## 📫 連絡先・リンク
 
 - Portfolio: 準備中
 - 記事: 準備中
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
